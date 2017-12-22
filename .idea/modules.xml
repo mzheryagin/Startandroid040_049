@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/P0401_LayoutInflater/P0401_LayoutInflater.iml" filepath="$PROJECT_DIR$/P0401_LayoutInflater/P0401_LayoutInflater.iml" />
       <module fileurl="file://$PROJECT_DIR$/Startandroid040_049.iml" filepath="$PROJECT_DIR$/Startandroid040_049.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
